@@ -1,6 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on LLM, Data Science, Automation, and Backend development using Django & FastAPI, with a strong focus on Python.<br><br>🌱 I’m continuously learning and expanding my knowledge in these areas to stay at the forefront of technology.<br><br>⚡ Fun fact: When I'm not coding, you can find me on an adventure, hiking through nature, or diving into a good manga.
+# Hi, I'm Moin
 
+AI Backend Engineer focused on building production-grade LLM applications, agentic workflows, RAG systems, and scalable Python APIs.
+
+I work across the full AI product stack: from backend architecture and API design to LLM orchestration, vector search, cloud deployment, observability, and automation.
+
+## What I Build
+
+- Agentic AI systems using OpenAI Agents, LangGraph, LangChain, MCP, and tool-calling workflows
+- RAG applications with vector databases, structured retrieval, source attribution, and domain-specific prompts
+- Scalable Python backends using FastAPI, Django, Celery, Redis, PostgreSQL, and WebSockets
+- Cloud-native AI services on AWS, Azure, GCP, Firebase, Docker, Kubernetes, and serverless platforms
+- Healthcare, HR, support, transcription, analytics, and automation platforms powered by LLMs
+
+## Current Focus
+
+- Production LLM systems
+- Multi-agent AI workflows
+- Healthcare AI automation
+- RAG evaluation and retrieval quality
+- Scalable backend architecture
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abyss.moin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-moinuddin/) 
